@@ -20,7 +20,7 @@ async def analyze_food(image: UploadFile = File(...)):
 
     try:
         image_bytes = await image.read()
-        result = analyze_food_image_with_vertex(image_bytes, mime_type=image.content_type)
+        result = await analyze_food_image_with_vertex_async(image_bytes, mime_type=image.content_type)
 
         if "error" in result:
             raise HTTPException(status_code=500, detail=result["error"])
