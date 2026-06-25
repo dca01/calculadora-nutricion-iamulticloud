@@ -31,7 +31,7 @@ def analyze_food_image_with_vertex(image_bytes: bytes, mime_type: str = "image/j
     for attempt in range(retries):
         try:
             response = client.models.generate_content(
-                model='gemini-2.5-flash-lite',
+                model='gemini-3.1-flash-lite',
                 contents=[
                     SYSTEM_INSTRUCTION,
                     types.Part.from_bytes(data=image_bytes, mime_type=mime_type)
@@ -56,7 +56,7 @@ async def analyze_food_image_with_vertex_async(image_bytes: bytes, mime_type: st
     for attempt in range(retries):
         try:
             response = await client.aio.models.generate_content(
-                model='gemini-2.5-flash-lite',
+                model='gemini-3.1-flash-lite',
                 contents=[
                     SYSTEM_INSTRUCTION,
                     types.Part.from_bytes(data=image_bytes, mime_type=mime_type)
