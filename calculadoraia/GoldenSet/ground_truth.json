@@ -88,5 +88,636 @@
             "carbs_g": 2,
             "fats_g": 5
         }
+    },
+    "img_11.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 15,
+            "carbs_g": 35,
+            "fats_g": 28
+        }
+    },
+    "img_12.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 650,
+            "protein_g": 40,
+            "carbs_g": 75,
+            "fats_g": 20
+        }
+    },
+    "img_13.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 1020,
+            "protein_g": 30,
+            "carbs_g": 125,
+            "fats_g": 45
+        }
+    },
+    "img_14.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 800,
+            "protein_g": 40,
+            "carbs_g": 65,
+            "fats_g": 40
+        }
+    },
+    "img_15.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 600,
+            "protein_g": 6,
+            "carbs_g": 75,
+            "fats_g": 30
+        }
+    },
+    "img_16.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 380,
+            "protein_g": 35,
+            "carbs_g": 15,
+            "fats_g": 20
+        }
+    },
+    "img_17.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 830,
+            "protein_g": 65,
+            "carbs_g": 10,
+            "fats_g": 55
+        }
+    },
+    "img_18.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 565,
+            "protein_g": 50,
+            "carbs_g": 75,
+            "fats_g": 6
+        }
+    },
+    "img_19.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 750,
+            "protein_g": 35,
+            "carbs_g": 70,
+            "fats_g": 35
+        }
+    },
+    "img_20.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 565,
+            "protein_g": 45,
+            "carbs_g": 70,
+            "fats_g": 10
+        }
+    },
+    "img_21.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 485,
+            "protein_g": 38,
+            "carbs_g": 62,
+            "fats_g": 8
+        }
+    },
+    "img_22.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 610,
+            "protein_g": 32,
+            "carbs_g": 78,
+            "fats_g": 18
+        }
+    },
+    "img_23.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 520,
+            "protein_g": 35,
+            "carbs_g": 48,
+            "fats_g": 21
+        }
+    },
+    "img_24.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 780,
+            "protein_g": 42,
+            "carbs_g": 98,
+            "fats_g": 24
+        }
+    },
+    "img_25.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 26,
+            "carbs_g": 35,
+            "fats_g": 24
+        }
+    },
+    "img_26.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 715,
+            "protein_g": 18,
+            "carbs_g": 85,
+            "fats_g": 33
+        }
+    },
+    "img_27.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 310,
+            "protein_g": 10,
+            "carbs_g": 58,
+            "fats_g": 4
+        }
+    },
+    "img_28.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 660,
+            "protein_g": 8,
+            "carbs_g": 72,
+            "fats_g": 38
+        }
+    },
+    "img_29.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 580,
+            "protein_g": 31,
+            "carbs_g": 45,
+            "fats_g": 31
+        }
+    },
+    "img_30.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 410,
+            "protein_g": 16,
+            "carbs_g": 39,
+            "fats_g": 21
+        }
+    },
+    "img_21.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 550,
+            "protein_g": 20,
+            "carbs_g": 45,
+            "fats_g": 35
+        }
+    },
+    "img_22.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 10,
+            "carbs_g": 45,
+            "fats_g": 25
+        }
+    },
+    "img_23.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 850,
+            "protein_g": 45,
+            "carbs_g": 40,
+            "fats_g": 55
+        }
+    },
+    "img_24.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 400,
+            "protein_g": 35,
+            "carbs_g": 20,
+            "fats_g": 22
+        }
+    },
+    "img_25.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 750,
+            "protein_g": 35,
+            "carbs_g": 85,
+            "fats_g": 30
+        }
+    },
+    "img_26.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 300,
+            "protein_g": 25,
+            "carbs_g": 45,
+            "fats_g": 4
+        }
+    },
+    "img_27.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 500,
+            "protein_g": 35,
+            "carbs_g": 40,
+            "fats_g": 22
+        }
+    },
+    "img_28.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 150,
+            "protein_g": 1,
+            "carbs_g": 39,
+            "fats_g": 0
+        }
+    },
+    "img_29.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 350,
+            "protein_g": 25,
+            "carbs_g": 15,
+            "fats_g": 20
+        }
+    },
+    "img_30.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 700,
+            "protein_g": 35,
+            "carbs_g": 55,
+            "fats_g": 40
+        }
+    },
+    "img_31.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 800,
+            "protein_g": 40,
+            "carbs_g": 60,
+            "fats_g": 45
+        }
+    },
+    "img_32.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 30,
+            "carbs_g": 40,
+            "fats_g": 20
+        }
+    },
+    "img_33.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 650,
+            "protein_g": 35,
+            "carbs_g": 45,
+            "fats_g": 35
+        }
+    },
+    "img_34.png": {
+        "category": "Multimodal/Empaque",
+        "metrics": {
+            "calories": 1800,
+            "protein_g": 24,
+            "carbs_g": 210,
+            "fats_g": 90
+        }
+    },
+    "img_35.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 20,
+            "carbs_g": 30,
+            "fats_g": 28
+        }
+    },
+    "img_36.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 600,
+            "protein_g": 35,
+            "carbs_g": 45,
+            "fats_g": 32
+        }
+    },
+    "img_37.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 30,
+            "carbs_g": 40,
+            "fats_g": 18
+        }
+    },
+    "img_38.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 200,
+            "protein_g": 4,
+            "carbs_g": 20,
+            "fats_g": 10
+        }
+    },
+    "img_39.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 400,
+            "protein_g": 25,
+            "carbs_g": 45,
+            "fats_g": 15
+        }
+    },
+    "img_40.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 550,
+            "protein_g": 50,
+            "carbs_g": 45,
+            "fats_g": 20
+        }
+    },
+    "img_21.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 550,
+            "protein_g": 20,
+            "carbs_g": 45,
+            "fats_g": 35
+        }
+    },
+    "img_22.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 10,
+            "carbs_g": 45,
+            "fats_g": 25
+        }
+    },
+    "img_23.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 850,
+            "protein_g": 45,
+            "carbs_g": 40,
+            "fats_g": 55
+        }
+    },
+    "img_24.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 400,
+            "protein_g": 35,
+            "carbs_g": 20,
+            "fats_g": 22
+        }
+    },
+    "img_25.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 750,
+            "protein_g": 35,
+            "carbs_g": 85,
+            "fats_g": 30
+        }
+    },
+    "img_26.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 300,
+            "protein_g": 25,
+            "carbs_g": 45,
+            "fats_g": 4
+        }
+    },
+    "img_27.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 500,
+            "protein_g": 35,
+            "carbs_g": 40,
+            "fats_g": 22
+        }
+    },
+    "img_28.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 150,
+            "protein_g": 1,
+            "carbs_g": 39,
+            "fats_g": 0
+        }
+    },
+    "img_29.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 350,
+            "protein_g": 25,
+            "carbs_g": 15,
+            "fats_g": 20
+        }
+    },
+    "img_30.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 700,
+            "protein_g": 35,
+            "carbs_g": 55,
+            "fats_g": 40
+        }
+    },
+    "img_31.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 800,
+            "protein_g": 40,
+            "carbs_g": 60,
+            "fats_g": 45
+        }
+    },
+    "img_32.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 30,
+            "carbs_g": 40,
+            "fats_g": 20
+        }
+    },
+    "img_33.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 650,
+            "protein_g": 35,
+            "carbs_g": 45,
+            "fats_g": 35
+        }
+    },
+    "img_34.png": {
+        "category": "Multimodal/Empaque",
+        "metrics": {
+            "calories": 1800,
+            "protein_g": 24,
+            "carbs_g": 210,
+            "fats_g": 90
+        }
+    },
+    "img_35.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 20,
+            "carbs_g": 30,
+            "fats_g": 28
+        }
+    },
+    "img_36.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 600,
+            "protein_g": 35,
+            "carbs_g": 45,
+            "fats_g": 32
+        }
+    },
+    "img_37.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 30,
+            "carbs_g": 40,
+            "fats_g": 18
+        }
+    },
+    "img_38.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 200,
+            "protein_g": 4,
+            "carbs_g": 20,
+            "fats_g": 10
+        }
+    },
+    "img_39.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 400,
+            "protein_g": 25,
+            "carbs_g": 45,
+            "fats_g": 15
+        }
+    },
+    "img_40.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 550,
+            "protein_g": 50,
+            "carbs_g": 45,
+            "fats_g": 20
+        }
+    },
+    "img_41.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 750,
+            "protein_g": 40,
+            "carbs_g": 75,
+            "fats_g": 30
+        }
+    },
+    "img_42.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 850,
+            "protein_g": 30,
+            "carbs_g": 90,
+            "fats_g": 40
+        }
+    },
+    "img_43.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 900,
+            "protein_g": 25,
+            "carbs_g": 85,
+            "fats_g": 50
+        }
+    },
+    "img_44.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 1100,
+            "protein_g": 45,
+            "carbs_g": 110,
+            "fats_g": 50
+        }
+    },
+    "img_45.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 800,
+            "protein_g": 40,
+            "carbs_g": 80,
+            "fats_g": 35
+        }
+    },
+    "img_46.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 120,
+            "protein_g": 20,
+            "carbs_g": 5,
+            "fats_g": 2
+        }
+    },
+    "img_47.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 850,
+            "protein_g": 45,
+            "carbs_g": 60,
+            "fats_g": 45
+        }
+    },
+    "img_48.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 500,
+            "protein_g": 40,
+            "carbs_g": 40,
+            "fats_g": 20
+        }
+    },
+    "img_49.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 700,
+            "protein_g": 55,
+            "carbs_g": 55,
+            "fats_g": 25
+        }
+    },
+    "img_50.png": {
+        "category": "Escala de Volumen",
+        "metrics": {
+            "calories": 450,
+            "protein_g": 30,
+            "carbs_g": 50,
+            "fats_g": 15
+        }
     }
 }
+

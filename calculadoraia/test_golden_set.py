@@ -9,9 +9,9 @@ from agent import analyze_food_image_with_vertex_async
 
 GOLDEN_SET_DIR = "GoldenSet"
 GROUND_TRUTH_FILE = os.path.join(GOLDEN_SET_DIR, "ground_truth.json")
-MAX_CONCURRENT_REQUESTS = 5
-MAX_RETRIES = 3
-INITIAL_BACKOFF = 2  # segundos
+MAX_CONCURRENT_REQUESTS = 1
+MAX_RETRIES = 6
+INITIAL_BACKOFF = 5  # segundos
 
 def calculate_error(expected: float, predicted: float) -> float:
     ""
