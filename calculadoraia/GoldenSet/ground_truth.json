@@ -1,0 +1,92 @@
+{
+    "img_01.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 15,
+            "protein_g": 1,
+            "carbs_g": 3,
+            "fats_g": 0
+        }
+    },
+    "img_02.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 75,
+            "protein_g": 1,
+            "carbs_g": 4,
+            "fats_g": 7
+        }
+    },
+    "img_03.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 40,
+            "protein_g": 3,
+            "carbs_g": 8,
+            "fats_g": 0
+        }
+    },
+    "img_04.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 8,
+            "protein_g": 0,
+            "carbs_g": 2,
+            "fats_g": 0
+        }
+    },
+    "img_05.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 123,
+            "protein_g": 4,
+            "carbs_g": 14,
+            "fats_g": 7
+        }
+    },
+    "img_06.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 123,
+            "protein_g": 4,
+            "carbs_g": 14,
+            "fats_g": 7
+        }
+    },
+    "img_07.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 123,
+            "protein_g": 4,
+            "carbs_g": 14,
+            "fats_g": 7
+        }
+    },
+    "img_08.png": {
+        "category": "Densidad Calórica",
+        "metrics": {
+            "calories": 112,
+            "protein_g": 1,
+            "carbs_g": 6,
+            "fats_g": 10
+        }
+    },
+    "img_09.png": {
+        "category": "Mezcla Compleja",
+        "metrics": {
+            "calories": 385,
+            "protein_g": 48,
+            "carbs_g": 4,
+            "fats_g": 18
+        }
+    },
+    "img_10.png": {
+        "category": "Control",
+        "metrics": {
+            "calories": 52,
+            "protein_g": 0,
+            "carbs_g": 2,
+            "fats_g": 5
+        }
+    }
+}

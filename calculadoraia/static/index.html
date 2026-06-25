@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NutriVision AI</title>
+    <meta name="description" content="Calculadora de Macros por Visión Artificial">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+    </div>
+
+    <div class="container glass-panel">
+        <header>
+            <h1>¿Qué vas a <span>comer?</span></h1>
+            <p>Sube la foto de tu plato y la IA hará el conteo por ti.</p>
+        </header>
+
+        <main>
+            <div class="upload-area" id="uploadArea">
+                <input type="file" id="imageInput" accept="image/*" hidden>
+                <div class="upload-content">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="17 8 12 3 7 8"></polyline><line x1="12" y1="3" x2="12" y2="15"></line></svg>
+                    <p>Haz clic o arrastra una imagen aquí</p>
+                </div>
+                <img id="imagePreview" src="" alt="Vista previa" class="hidden">
+            </div>
+
+            <button id="analyzeBtn" class="btn-primary" disabled>
+                <span class="btn-text">Analizar Plato</span>
+                <div class="loader hidden"></div>
+            </button>
+
+            <div id="results" class="results-panel hidden">
+                <h2 id="foodName">Plato Identificado</h2>
+                <div class="macros-grid">
+                    <div class="macro-card cal">
+                        <h3>Calorías</h3>
+                        <p id="calValue">0</p>
+                        <span>kcal</span>
+                    </div>
+                    <div class="macro-card pro">
+                        <h3>Proteínas</h3>
+                        <p id="proValue">0</p>
+                        <span>g</span>
+                    </div>
+                    <div class="macro-card carb">
+                        <h3>Carbos</h3>
+                        <p id="carbValue">0</p>
+                        <span>g</span>
+                    </div>
+                    <div class="macro-card fat">
+                        <h3>Grasas</h3>
+                        <p id="fatValue">0</p>
+                        <span>g</span>
+                    </div>
+                </div>
+                
+                <div class="micronutrients-section">
+                    <h3>Micronutrientes Destacados</h3>
+                    <p id="microValue">Cargando detalles...</p>
+                </div>
+            </div>
+            
+            <div id="errorBox" class="error-panel hidden">
+                <p id="errorMsg"></p>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
