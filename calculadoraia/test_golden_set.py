@@ -47,6 +47,7 @@ async def process_image_with_retry(img_name, img_path, expected_data, semaphore)
                     err = calculate_error(expected_metrics[metric], result.get(metric, 0))
                     errors[metric] = err
 
+                await asyncio.sleep(4)  # FRENO OBLIGATORIO para no superar las 15/minuto
                 return {
                     "status": "success",
                     "img_name": img_name,
@@ -58,6 +59,7 @@ async def process_image_with_retry(img_name, img_path, expected_data, semaphore)
                 err_msg = str(e)
                 if "429" in err_msg or "quota" in err_msg.lower():
                     backoff = INITIAL_BACKOFF * (2 ** attempt)
+                    print(f"[{img_name}] Error real de Google: {err_msg}")
                     print(f"[{img_name}] Cuota excedida/Error. Reintentando en {backoff}s... (Intento {attempt+1}/{MAX_RETRIES})")
                     await asyncio.sleep(backoff)
                 else:
